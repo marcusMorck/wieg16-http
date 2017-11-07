@@ -7,7 +7,14 @@
     <body>
 
     <form action="form.php" method="post">
-    <input type="submit" value="submit">
+        <fieldset>
+            <legend>
+                <input type="text" placeholder="text" >
+                <input type="password" placeholder="text">
+                <input type="checkbox" name="favoritarstid" id="sommar" value="sommar"/>
+                <input type="submit" value="submit">
+            </legend>
+        </fieldset>
     </form>
 
 
