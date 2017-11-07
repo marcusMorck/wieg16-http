@@ -1,11 +1,14 @@
 <html>
     <head>
+    <title>form</title>
 
 
-        
     </head>
     <body>
 
+    <form action="form.php" method="post">
+    <input type="submit" value="submit">
+    </form>
 
 
 
